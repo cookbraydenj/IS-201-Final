@@ -1,0 +1,45 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: rgb(9, 9, 96);
+    background-color: rgb(187, 223, 246);
+}
+
+li {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    
+}
+
+a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: mediumblue;
+}
+
+
+.common {
+    background-color: #cccccc;
+    border: 2px solid white;
+    position: absolute;
+} 
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.mainbody {
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+}
+
+.footer {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+} 
